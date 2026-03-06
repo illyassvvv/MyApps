@@ -3,6 +3,18 @@
     "featured": false,
     "hidden": false,
     "chart": "#1",
+    "name": "Cinemana",
+    "version": "1.0",
+    "size": "26 MB",
+    "icon": "https://raw.githubusercontent.com/illyassvvv/MyApps/main/images/icon_1772799663.png",
+    "url": "https://av-f2l-bot.avbotz26.workers.dev/35108?hash=AgADLB",
+    "age": "12+",
+    "description": "Cinemana هو تطبيق مخصص لعشاق الأفلام والمسلسلات، يتيح للمستخدمين الوصول إلى مكتبة واسعة من المحتوى الترفيهي لمشاهدته بسهولة من خلال الهاتف أو الجهاز اللوحي. يوفر التطبيق واجهة بسيطة ومنظمة تساعدك على العثور على أحدث الأفلام والمسلسلات بسرعة والاستمتاع بالمشاهدة في أي وقت."
+  },
+  {
+    "featured": false,
+    "hidden": false,
+    "chart": "#1",
     "name": "Whatsapp Gold",
     "version": "26.5.76",
     "size": "125.8 MB",
