@@ -1,5 +1,17 @@
 [
   {
+    "featured": false,
+    "hidden": false,
+    "chart": "#1",
+    "name": "Whatsapp Gold",
+    "version": "26.5.76",
+    "size": "125.8 MB",
+    "icon": "https://raw.githubusercontent.com/illyassvvv/MyApps/refs/heads/main/images/IMG_5924.jpeg",
+    "url": "https://av-f2l-bot.avbotz26.workers.dev/35106?hash=AgADjB",
+    "age": "12+",
+    "description": "واتساب كولد هو نسخة مطوّرة من تطبيق واتساب الشهير، تم تصميمها لتمنح المستخدمين تجربة أكثر مرونة وميزات متقدمة غير متوفرة في النسخة الرسمية. يوفر التطبيق العديد من الأدوات التي تساعدك على التحكم الكامل في الخصوصية وتخصيص الواجهة والاستمتاع بإمكانيات إضافية أثناء الدردشة."
+  },
+  {
     "name": "Netflix Plus",
     "version": "3.0",
     "size": "37 MB",
