@@ -1,5 +1,17 @@
 [
   {
+    "name": "Duolingo - Language Lessons",
+    "version": "7.112.1",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/55/a1/7f55a1cf-8fde-9957-8016-c6d50f269dcb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "age": "4+",
+    "chart": "#1",
+    "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by ...",
+    "featured": false,
+    "hidden": false,
+    "size": "221.1 MB",
+    "url": "https://av-f2l-bot.avbotz26.workers.dev/35219?hash=AgADRx"
+  },
+  {
     "name": "Geometry Dash",
     "version": "2.208",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/d5/97/5ad5971d-b8ea-d82f-415f-f69be6bde65c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
