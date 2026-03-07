@@ -1,5 +1,17 @@
 [
   {
+    "name": "InShot - Video Editor",
+    "version": "1.94.1",
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d4/0f/c5d40ffd-b6ce-a790-ac44-516612ab3cb3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+    "age": "4+",
+    "chart": "#1",
+    "description": "InShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your i...",
+    "featured": false,
+    "hidden": false,
+    "size": "128.1",
+    "url": "https://av-f2l-bot.avbotz26.workers.dev/35215?hash=AgADOI"
+  },
+  {
     "name": "CapCut: Photo & Video Editor",
     "version": "16.9.0",
     "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/56/60/f75660fb-2b2a-dabf-3a51-ab785d762f09/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
