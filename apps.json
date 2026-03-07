@@ -85,7 +85,7 @@
   },
   {
     "featured": false,
-    "hidden": false,
+    "hidden": true,
     "chart": "#1",
     "name": "Cinemana",
     "version": "1.0",
